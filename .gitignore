@@ -1,0 +1,16 @@
+.DS_Store*
+.env*
+
+node_modules/
+
+/zsh/plugins/
+
+/iterm2/
+/lazygit/
+/spicetify/
+/spotify-player/
+/spotify-tui/
+
+.zsh_history*
+
+.zcompdump*
